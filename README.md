@@ -76,9 +76,6 @@ Power BI data model designed with a **star schema** for clean relationships and 
 
 ---
 ## 💡 Project Impact
-
-This project provides valuable business insights and demonstrates end-to-end data analysis skills using Power BI:
-
 - Helps identify **peak booking hours**, **high-demand days**, and **preferred vehicle types**.
 - Reveals top pickup and drop-off locations to improve **driver allocation** and **route planning**.
 - Analyzes **revenue trends**, **booking behavior**, and **trip efficiency** to support pricing strategies.
