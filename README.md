@@ -93,7 +93,7 @@ Power BI data model designed with a **star schema** for clean relationships and 
 ---
 ## 🙋‍♀️ About Me
 👤 **Akanksha Ghadage**  
-🎯 Aspiring Data Analyst | MCA Student 
+🎯 Aspiring Data Analyst 
 
 ## Connect with Me
 
