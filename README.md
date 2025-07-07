@@ -68,11 +68,11 @@ Power BI data model designed with a **star schema** for clean relationships and 
 ---
 
 ## 📈 Key Insights
-- Peak demand observed between 7–9 AM and 6–9 PM.
-- Cash is the most preferred payment method on weekends.
-- Night trips are longer but less frequent.
-- Sedans are most booked in high-density pickup zones.
-- Mondays and Fridays show booking spikes—indicating commuter patterns.
+- Peak booking hours fall between 12 PM and 6 PM, indicating strong afternoon travel demand.
+- Weekends see the highest ride volume, with Saturday and Sunday dominating bookings.
+- Uber Pay is the most preferred payment method, used in over two-thirds of all trips.
+- UberX is the most booked vehicle type, showing a strong preference for affordable standard rides.
+- Night trips are fewer but cover longer distances, likely due to airport or late-night commutes.
 
 ---
 ## 💡 Project Impact
