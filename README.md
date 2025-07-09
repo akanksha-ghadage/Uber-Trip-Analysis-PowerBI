@@ -22,7 +22,7 @@ This project explores Uber trip data to uncover patterns in booking behavior, re
 - Line Chart: Bookings by Day of the Week
 - Heatmap: Hourly booking trends (0–23 hrs vs Mon–Sun)
 
-  ![Time Analysisl](Time_Dashboard.png)
+![Time Analysisl](Time_Dashboard.png)
 
 ---
 
